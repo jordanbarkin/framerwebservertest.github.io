@@ -1,0 +1,195 @@
+app.coffee
+framer/backups/backup-2017-08-01 13.35.53.coffee
+framer/backups/backup-2017-08-01 13.38.53.coffee
+framer/backups/backup-2017-08-01 13.38.53.vekter
+framer/backups/backup-2017-08-01 13.39.53.coffee
+framer/backups/backup-2017-08-01 13.40.53.coffee
+framer/backups/backup-2017-08-01 13.41.52.coffee
+framer/backups/backup-2017-08-01 13.42.52.coffee
+framer/backups/backup-2017-08-01 13.43.52.coffee
+framer/backups/backup-2017-08-01 13.44.52.coffee
+framer/backups/backup-2017-08-01 13.45.52.coffee
+framer/backups/backup-2017-08-01 13.46.52.coffee
+framer/backups/backup-2017-08-01 13.47.52.coffee
+framer/backups/backup-2017-08-01 13.48.52.coffee
+framer/backups/backup-2017-08-01 13.49.52.coffee
+framer/backups/backup-2017-08-01 13.50.52.coffee
+framer/backups/backup-2017-08-01 13.51.52.coffee
+framer/backups/backup-2017-08-01 13.52.53.coffee
+framer/backups/backup-2017-08-01 14.04.01.coffee
+framer/backups/backup-2017-08-01 14.04.01.vekter
+framer/backups/backup-2017-08-01 14.28.32.coffee
+framer/backups/backup-2017-08-01 14.28.32.vekter
+framer/backups/backup-2017-08-07 13.03.57.coffee
+framer/backups/backup-2017-08-07 13.03.57.vekter
+framer/backups/backup-2017-08-07 13.59.28.coffee
+framer/backups/backup-2017-08-07 13.59.28.vekter
+framer/backups/backup-2017-08-07 14.00.28.coffee
+framer/backups/backup-2017-08-07 14.01.28.coffee
+framer/backups/backup-2017-08-07 14.02.28.coffee
+framer/backups/backup-2017-08-07 14.04.28.coffee
+framer/backups/backup-2017-08-07 14.20.39.coffee
+framer/backups/backup-2017-08-07 14.20.39.vekter
+framer/backups/backup-2017-08-07 14.21.38.coffee
+framer/backups/backup-2017-08-07 14.22.38.coffee
+framer/backups/backup-2017-08-07 14.23.39.coffee
+framer/backups/backup-2017-08-07 14.24.38.coffee
+framer/backups/backup-2017-08-07 14.27.04.coffee
+framer/backups/backup-2017-08-07 14.27.04.vekter
+framer/backups/backup-2017-08-07 14.28.04.coffee
+framer/backups/backup-2017-08-07 14.29.05.coffee
+framer/backups/backup-2017-08-07 14.30.04.coffee
+framer/coffee-script.js
+framer/config.json
+framer/design.vekter
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/framer.vekter.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/preview.png
+framer/social-1200x630.png
+framer/social-800x600.png
+framer/social-80x80.png
+framer/social-880x460.png
+framer/style.css
+framer/version
+images/acceptCallButton.png
+images/background screen.png
+images/backToPortraitButton.png
+images/cam_1.mp4
+images/cam_2.mp4
+images/doorbell_1.mp4
+images/doorbell_2.mp4
+images/doorbell_3.mp4
+images/doubleEvent.png
+images/dropdownMenu.png
+images/exitButton.png
+images/fullScreenButton.png
+images/goLive3.png
+images/goLive4.png
+images/goLiveButton.png
+images/goLiveButton2.png
+images/Icon_Md_White_Minimize.png
+images/Icon_Md_White_MoreVert.png
+images/landscape UI.png
+images/landscapeLiveMicButton.png
+images/landscapeLivePlusButton.png
+images/landscapeLiveSpeakerButton.png
+images/landscapeNotification.png
+images/landscapeRightIcons.png
+images/landscapeShareSheet.png
+images/landscapeUI.png
+images/leaveLiveViewLandscape.png
+images/leftButton.png
+images/lighbulbUnchecked.png
+images/lightEnabled.png
+images/lights.png
+images/Live2.png
+images/liveBackToPortraitButton.png
+images/liveLeftButton.png
+images/liveNotification.png
+images/liveViewIconCollapsed.png
+images/liveViewOpened.png
+images/lockScreen.png
+images/micOff.png
+images/micOn.png
+images/motionEvent.png
+images/newLeftArrow.png
+images/nightEnabled.png
+images/nightVision.png
+images/nightVisionUnchecked.png
+images/notification2.png
+images/pauseButton.png
+images/pauseButton2.png
+images/phoneAsset.png
+images/playButton.png
+images/playButton2.png
+images/plusButton.png
+images/portraitLEft.png
+images/portraitLeftButton.png
+images/portraitLeftLiveButton.png
+images/portraitNotification.png
+images/portraitRightLiveButton.png
+images/recordedNotification.png
+images/recordedVideoButtons.png
+images/rightButton.png
+images/ring watermark.png
+images/ringEvent.png
+images/shareButton.png
+images/shareSheet.png
+images/shareUnchecked.png
+images/siren.png
+images/sirenEnabled.png
+images/sirenEnabled3.png
+images/sirenUnchecked.png
+images/sos.png
+images/sosButtonUnchecked.png
+images/sosEnabled.png
+images/soundOff.png
+images/soundOn.png
+images/starUnchecked.png
+images/static header.png
+images/static label.png
+images/timelineLabel.png
+images/trashButton.png
+images/trashUnchecked.png
+images/videoBar.png
+images/videoBlur.png
+images/whiteLeftArrow.png
+images/whiteRightArrow.png
+images/whiteShareButton.png
+images/xButton.png
+index.html
+modules/AppleStyleToggle.coffee
+modules/dashboard-images/2_0000s_0000_Accepted.png
+modules/dashboard-images/2_0000s_0001_Missed.png
+modules/dashboard-images/2_0000s_0003_Motion.png
+modules/dashboard-images/2_0000s_0004_Missed.png
+modules/dashboard-images/2_0000s_0005_Missed.png
+modules/dashboard-images/2_0000s_0006_Accepted.png
+modules/dashboard-images/2_0000s_0007_Missed.png
+modules/dashboard-images/2_0000s_0008_Missed.png
+modules/dashboard-images/2_0000s_0009_Ellipse-1.png
+modules/dashboard-images/2_0000s_0010_Missed.png
+modules/dashboard-images/all_activity.png
+modules/dashboard-images/blank.png
+modules/dashboard-images/device list.png
+modules/dashboard-images/devices.png
+modules/dashboard-images/golden star.png
+modules/dashboard-images/icon_event_ringMissed@3x copy copy.png
+modules/dashboard-images/icon_event_ringMissed@3x copy.png
+modules/dashboard-images/motion.png
+modules/dashboard-images/new three icons on.png
+modules/dashboard-images/new three icons.png
+modules/dashboard-images/positions.png
+modules/dashboard-images/RingApp_Dashboard.png
+modules/dashboard-images/rings.png
+modules/dashboard-images/scrollable_sidebar.png
+modules/dashboard-images/sidebar main.png
+modules/dashboard-images/three icons.png
+modules/input.coffee
+modules/keyboard.png
+modules/myModule.coffee
+modules/Primer.coffee
+modules/RingDashboard.coffee
+modules/shortcuts.coffee
+modules/StatusBar-assets/status-dark-left.png
+modules/StatusBar-assets/status-dark-middle.png
+modules/StatusBar-assets/status-dark-right.png
+modules/StatusBar-assets/status-light-left.png
+modules/StatusBar-assets/status-light-middle.png
+modules/StatusBar-assets/status-light-right.png
+modules/StatusBar.coffee
+modules/ViewController.coffee
